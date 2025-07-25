@@ -21,10 +21,6 @@ Cada pasta contém os arquivos `.java` correspondentes aos exercícios daquela s
 
 Para testar ou modificar os exercícios localmente, siga os passos abaixo:
 
-## ▶️ Como Executar os Exercícios
-
-Para testar ou modificar os exercícios localmente, siga os passos abaixo:
-
 - Clone este repositório:
 
   ```bash
