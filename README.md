@@ -1,2 +1,3 @@
-# java-curso-nelio-exercicios
-Exercícios realizados no curso
+# Java Curso - Nelio - Exercicios
+
+Exercícios realizados durante o curso:  Java COMPLETO Programação Orientada a Objetos + Projetos
